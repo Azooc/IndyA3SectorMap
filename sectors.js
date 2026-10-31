@@ -3,7 +3,7 @@
 // Coordinates are pixels on the 833 x 843 source map.
 //   x / y  top-left corner of the sector's label block
 //   fl     "240-340" = FL240-FL340, "350+" = FL350 and above, "230-" = FL230 and below
-//   name   null when the source map shows no name line (HNN SH)
+//   name   null to leave out the name line
 
 window.SECTORS = [
   { id: "MOR HI",     name: "MOORFIELD",   num: "W03", fl: "250-340", freq: "133.27", x: 694, y: 154 },
@@ -13,7 +13,7 @@ window.SECTORS = [
   { id: "BRY SH",     name: "BRYCE",       num: "W42", fl: "350+",    freq: "118.02", x: 758, y: 210 },
   { id: "PIK LO",     name: "PIKE",        num: "69",  fl: "230-",    freq: "135.57", x: 208, y: 220 },
   { id: "EKN LO",     name: "ELKINS",      num: "W01", fl: "240-",    freq: "128.6",  x: 692, y: 232 },
-  { id: "HNN SH",     name: null,          num: "95",  fl: "360+",    freq: "120.27", x: 536, y: 288 },
+  { id: "HNN SH",     name: "HENDERSON",   num: "95",  fl: "360+",    freq: "120.27", x: 536, y: 288 },
   { id: "BOB IM",     name: "BOBCAT",      num: "79",  fl: "320-350", freq: "135.12", x: 280, y: 332 },
   { id: "FLM HI",     name: "FALMOUTH",    num: "83",  fl: "240-320", freq: "128.22", x: 178, y: 360 },
   { id: "MAR HI",     name: "MARLINGTON",  num: "W37", fl: "240+",    freq: "133.02", x: 696, y: 366 },
