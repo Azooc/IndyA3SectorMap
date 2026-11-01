@@ -9,7 +9,7 @@ window.SECTORS = [
   { id: "MOR HI",     name: "MOORFIELD",   num: "W03", fl: "250-340", freq: "133.27", x: 694, y: 154 },
   { id: "PKB LO",     name: "PARKERSBURG", num: "24",  fl: "230-",    freq: "125.55", x: 502, y: 188 },
   { id: "UNV HI",     name: "UNIVERSITY",  num: "77",  fl: "240-340", freq: "125.07", x: 378, y: 190 },
-  { id: "YGR SH",     name: "YAEGER",      num: "74",  fl: "350+",    freq: "135.42", x: 260, y: 206 },
+  { id: "YGR SH",     name: "YEAGER",      num: "74",  fl: "350+",    freq: "135.42", x: 260, y: 206 },
   { id: "BRY SH",     name: "BRYCE",       num: "W42", fl: "350+",    freq: "118.02", x: 758, y: 210 },
   { id: "PIK LO",     name: "PIKE",        num: "69",  fl: "230-",    freq: "135.57", x: 208, y: 220 },
   { id: "EKN LO",     name: "ELKINS",      num: "W01", fl: "240-",    freq: "128.6",  x: 692, y: 232 },
