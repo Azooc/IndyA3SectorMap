@@ -30,7 +30,7 @@ window.SECTORS = [
   { id: "RBL HI",     name: "REBEL",       num: "84",  fl: "240-340", freq: "134.67", x: 148, y: 600 },
   { id: "PSK HI",     name: "PULASKI",     num: "T43", fl: "240-340", freq: "132.97", x: 566, y: 626 },
   { id: "BRISTOL LO", name: "BRISTOL",     num: "T45", fl: "230-",    freq: "127.85", x: 476, y: 656 },
-  { id: "LOZ LO",     name: "LONDON",      num: "21",  fl: "230-",    freq: "126.57", x: 188, y: 664 },
+  { id: "LOZ LO",     name: "LONDON",      num: "21",  fl: "230-",    freq: "124.62", x: 188, y: 664 },
   { id: "SME SH",     name: "SOMERSET",    num: "94",  fl: "350+",    freq: "126.92", x: 110, y: 678 },
   { id: "SALEM HI",   name: "SALEM",       num: "T42", fl: "240-340", freq: "120.72", x: 378, y: 704 },
   { id: "BADEN SH",   name: "BADEN",       num: "T15", fl: "350+",    freq: "126.77", x: 522, y: 744 },
